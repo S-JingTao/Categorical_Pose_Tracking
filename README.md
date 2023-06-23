@@ -1,8 +1,6 @@
 # ICK-Track
 ICK-Track: A Category-level 6-DoF Pose Tracker Using Inter-frame Consistent Keypoints for Aerial Manipulation
 
-(Complete Codes will be released soon.)
-
 ![Fig 1](https://user-images.githubusercontent.com/26479294/145342668-6edc42cf-2d34-4d28-870d-ce99dc20b8b1.jpg)
 # Project Video
 (Click to see)
