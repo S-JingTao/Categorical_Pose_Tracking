@@ -2,7 +2,7 @@
 ICK-Track: A Category-level 6-DoF Pose Tracker Using Inter-frame Consistent Keypoints for Aerial Manipulation
 
 - # Overview
-This repository is the implementation code of the paper "SSCKR-Track: A Category-level 6D Pose Tracker with Semantic Shape Consistent Inter-frame Keypoints for Aerial Manipulation" (paper, Project, Video) by Sun et al. at National Engineering Laboratory for Robot Visual Perception and Control (RVC-NATIONAL ENGNEERING LAB) and Robotics ADVANCe Lab, ST Engineering-NTU Corporate Laboratory. The framework is used for category-level 6D object pose tracking.
+This repository is the implementation code of the paper "ICK-Track: A Category-level 6D Pose Tracker with Semantic Shape Consistent Inter-frame Keypoints for Aerial Manipulation" (paper, Project, Video) by Sun et al. at National Engineering Laboratory for Robot Visual Perception and Control (RVC-NATIONAL ENGNEERING LAB) and Robotics ADVANCe Lab, ST Engineering-NTU Corporate Laboratory. The framework is used for category-level 6D object pose tracking.
 
 ![Fig 2](https://user-images.githubusercontent.com/26479294/148226624-13368b43-075d-43e0-8e6a-642f207ad0ff.jpg)
 
