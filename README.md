@@ -10,7 +10,7 @@ Robust6oF: Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tr
 (Click to see)
 [![Watch the video](https://img.youtube.com/vi/TDmsd99Apzc/maxresdefault.jpg)](https://youtu.be/TDmsd99Apzc)
 
- ### Citation
+ # Citation
 If our work is useful for your research, please consider citing:
 
 @inproceedings{sun2022ick,
