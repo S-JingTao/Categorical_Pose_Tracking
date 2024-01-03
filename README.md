@@ -10,9 +10,9 @@ Robust6oF: Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tr
 (Click to see)
 [![Watch the video](https://img.youtube.com/vi/TDmsd99Apzc/maxresdefault.jpg)](https://youtu.be/TDmsd99Apzc)
 
- # Citation
-If our work is useful for your research, please consider citing:
-
+# Citation
+If you find the code useful, please cite our paper.
+```latex
 @inproceedings{sun2022ick,
   title={ICK-Track: A Category-Level 6-DoF Pose Tracker Using Inter-Frame Consistent Keypoints for Aerial Manipulation},
   author={Sun, Jingtao and Wang, Yaonan and Feng, Mingtao and Wang, Danwei and Zhao, Jiawen and Stachniss, Cyrill and Chen, Xieyuanli},
@@ -21,5 +21,6 @@ If our work is useful for your research, please consider citing:
   year={2022},
   organization={IEEE}
 }
+```
 
 
