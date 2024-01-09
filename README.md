@@ -1,7 +1,7 @@
 This repository is the implementation code and video of our two paper as follows:
 
 # 1) ICK-Track
-ICK-Track: A Category-level 6-DoF Pose Tracker Using Inter-frame Consistent Keypoints for Aerial Manipulation
+ICK-Track: A Category-level 6-DoF Pose Tracker Using Inter-frame Consistent Keypoints for Aerial Manipulation (IROS2022 oral paper)
 by Sun et al. at National Engineering Laboratory for Robot Visual Perception and Control (RVC-NATIONAL ENGNEERING LAB) and Robotics ADVANCe Lab, ST Engineering-NTU Corporate Laboratory. The framework is used for category-level 6D object pose tracking.
 
 # 2) Robust6oF
