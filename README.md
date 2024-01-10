@@ -7,7 +7,7 @@ The work is a collaborative effort between the National Engineering Research Cen
 
 # 2) Robust6oF
 ## Robust6oF: Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker.
-We introduce a pose-driven servo paradigm to achieve the aerial vision guidance task for aerial manipulation, which contains a category-level 6-DoF pose tracker and a Pose-Aware Discrete Servo Policy called PAD-Servo to perform real-world vision guidance task.
+We introduce a pose-driven servo paradigm to achieve the aerial vision guidance task for aerial manipulation, which contains a category-level 6-DoF pose tracker and a Pose-Aware Discrete Servo Policy called PAD-Servo to perform real-world vision guidance task. (https://arxiv.org/abs/2401.04377)
 # Project Video
 (Click to see)
 [![Watch the video](https://img.youtube.com/vi/TDmsd99Apzc/maxresdefault.jpg)](https://youtu.be/TDmsd99Apzc)
