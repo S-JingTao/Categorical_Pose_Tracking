@@ -23,6 +23,13 @@ If you find the code useful, please cite our paper.
   year={2022},
   organization={IEEE}
 }
+
+@ARTICLE{robust6dof,
+	title={Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker},
+	author={Jingtao Sun, Yaonan Wang and Danwei Wang},
+	journal={arXiv preprint arXiv:2401.04377},
+	year={2024}
+}
 ```
 
 
