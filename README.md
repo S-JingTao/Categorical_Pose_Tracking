@@ -12,7 +12,7 @@ We introduce a pose-driven servo paradigm to achieve the aerial vision guidance 
 ## ICK-Track(Click to see)
 [![Watch the video](https://img.youtube.com/vi/TDmsd99Apzc/maxresdefault.jpg)](https://youtu.be/TDmsd99Apzc)
 ## Robust6DoF(Click to see)
-[![Watch the video](https://img.youtube.com/vi/TDmsd99Apzc/maxresdefault.jpg)](https://youtu.be/cpRADMlv4kE)
+[![Watch the video](https://img.youtube.com/vi/cpRADMlv4kE/maxresdefault.jpg)](https://youtu.be/cpRADMlv4kE)
 
 # Citation
 If you find the code useful, please cite our paper.
