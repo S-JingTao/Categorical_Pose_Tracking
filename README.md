@@ -1,4 +1,4 @@
-This repository is the implementation code and video of our two paper as follows:
+This repository is the implementation code and video of our three paper as follows:
 
 # 1) ICK-Track (IROS 2022 oral paper)
 ## ICK-Track: A Category-level 6-DoF Pose Tracker Using Inter-frame Consistent Keypoints for Aerial Manipulation 
@@ -8,6 +8,10 @@ The work is a collaborative effort between the National Engineering Research Cen
 # 2) Robust6oF (TPAMI 2025)
 ## Robust6oF: Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker.
 We introduce a pose-driven servo paradigm to achieve the aerial vision guidance task for aerial manipulation, which contains a category-level 6-DoF pose tracker and a Pose-Aware Discrete Servo Policy called PAD-Servo to perform real-world vision guidance task. (https://ieeexplore.ieee.org/document/10949865)
+
+# 3) Aerial6D
+## Aerial6D: Towards Aerial Category-Level 6D Pose Tracking for Air-Ground Robotic Manipulation.
+We propose a new aerial category-level pose tracking method, namely Aerial6D, which exploits the multi-view consistency and the temporal-spatial consistency to achieve efficient, robust and lightweight 6-DoF pose tracking without relying on targeted instance’s 3D CAD models for air-ground robotic manipulation.
 # Project Video
 ## ICK-Track  (Click to see)
 [![Watch the video](https://img.youtube.com/vi/TDmsd99Apzc/maxresdefault.jpg)](https://youtu.be/TDmsd99Apzc)
