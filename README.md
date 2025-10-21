@@ -1,7 +1,7 @@
 This repository is the implementation code and video of our two paper as follows:
 
-# 1) ICK-Track
-## ICK-Track: A Category-level 6-DoF Pose Tracker Using Inter-frame Consistent Keypoints for Aerial Manipulation (IROS 2022 oral paper)
+# 1) ICK-Track (IROS 2022 oral paper)
+## ICK-Track: A Category-level 6-DoF Pose Tracker Using Inter-frame Consistent Keypoints for Aerial Manipulation 
 
 The work is a collaborative effort between the National Engineering Research Centre for Robot Visual Perception and Control (RVC-NERC) and the Robotics ADVANCe Lab, ST Engineering-NTU Corporate Laboratory.
 
