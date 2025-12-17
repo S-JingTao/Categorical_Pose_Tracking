@@ -12,6 +12,7 @@ We introduce a pose-driven servo paradigm to achieve the aerial vision guidance 
 # 3) Aerial6D
 ## Aerial6D: Towards Aerial Category-Level 6D Pose Tracking for Air-Ground Robotic Manipulation.
 We propose a new aerial category-level pose tracking method, namely Aerial6D, which exploits the multi-view consistency and the temporal-spatial consistency to achieve efficient, robust and lightweight 6-DoF pose tracking without relying on targeted instance’s 3D CAD models for air-ground robotic manipulation.
+Our AerialPose dataset can be found in [AerialPose](https://drive.google.com/drive/folders/1DsVlavYxZGib-UquWYTXktu2Ij1OqCT8?usp=drive_link)
 # Project Video
 ## ICK-Track  (Click to see)
 [![Watch the video](https://img.youtube.com/vi/TDmsd99Apzc/maxresdefault.jpg)](https://youtu.be/TDmsd99Apzc)
